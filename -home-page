@@ -1,0 +1,24 @@
+[33mcommit aa2651ca72acf32a84a6619d0906e82be9824628[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 01dc3e8 5d8bc20
+Author: radoszewski-marcin <nicrovishion@gmail.com>
+Date:   Fri Oct 27 18:00:48 2023 +0200
+
+    Merge branch 'feature-devops-home-page'
+
+[33mcommit 01dc3e8a1fbdcb936a5fad4795cda96a5fa4b923[m
+Author: radoszewski-marcin <nicrovishion@gmail.com>
+Date:   Fri Oct 27 17:58:05 2023 +0200
+
+    updated welcome page 2
+
+[33mcommit 5d8bc2019a67a447f36256903b97fe03d2f16420[m
+Author: radoszewski-marcin <nicrovishion@gmail.com>
+Date:   Fri Oct 27 17:54:48 2023 +0200
+
+    updated welcome page
+
+[33mcommit aad4d665acc643464960d9534e9572f74e7f7373[m
+Author: radoszewski-marcin <nicrovishion@gmail.com>
+Date:   Fri Oct 27 17:41:47 2023 +0200
+
+    Initial commit
